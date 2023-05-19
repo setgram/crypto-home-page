@@ -5,4 +5,4 @@ Home page for a crypto website. created using HTML, CSS, JavaScript. This homepa
 After creating and designing with html and css, I made use of the coingecko API to fetch a get request for the various prices in usd.
 
 
-live link: wiz-homepage-crypto.netlify.app.
+live link: https://wiz-homepage-crypto.netlify.app
